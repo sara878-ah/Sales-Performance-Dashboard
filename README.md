@@ -29,9 +29,10 @@ This project presents an interactive Sales Performance Dashboard built using Pow
 
 ## Files Included
 
-* [Sales and Product Performance Dashboard (PDF)](Product%20Performance%20Dashboard-2.pdf)
+* [Sales and Product Performance Dashboard (PDF)](Product%20Performance%20Dashboard-2.pdf) — preview the report without installing Power BI.
+* [Product Performance Dashboard (ZIP)](Product%20Performance%20Dashboard%202.zip) — project archive; download and extract it to access the packaged project files.
 
-> The original Power BI `.pbix` file is not included in this repository.
+> The repository includes the project as a ZIP archive. A standalone `.pbix` file is not currently listed in the repository.
 
 ## Author
 
